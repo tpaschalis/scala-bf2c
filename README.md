@@ -24,6 +24,7 @@ Hello World!
 ```
 
 ## TODO
+- Handle erroneous symbols
 - Figure out how unit-testing works in Scala
 - Figure out how I could dockerize this thing
 - Support running from the command line and reading/writing to stdin/stdout
