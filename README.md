@@ -1,6 +1,6 @@
 # scala-bf2c
 
-This is a simple Scala application to interpret Brainfuck code into C.
+This is a simple Scala application to interpret Brainfuck code into C. All logic lives in [this](https://github.com/tpaschalis/scala-bf2c/blob/master/src/main/scala/BF2C.scala) file.
 
 It was written as a IntelliJ Idea + SBT project.
 
@@ -21,3 +21,9 @@ $ gcc output.c -o bfrun
 
 $ ./bfrun
 Hello World!
+```
+
+## TODO
+- Figure out how unit-testing works in Scala
+- Figure out how I could dockerize this thing
+- Support running from the command line and reading/writing to stdin/stdout
