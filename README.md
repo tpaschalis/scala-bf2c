@@ -1,6 +1,6 @@
 # scala-bf2c
 
-This is a simple Scala application to interpret Brainfuck code into C. All logic lives in [this](https://github.com/tpaschalis/scala-bf2c/blob/master/src/main/scala/BF2C.scala) file. It shamelessly copies from [here](https://gist.github.com/maxcountryman/1699708) and [here](https://starius.ru/2015/05/16/brainfuck-to-c-in-lua/).
+This is a simple Scala application to interpret [Brainfuck](https://en.wikipedia.org/wiki/Brainfuck) code into C. All logic lives in [this](https://github.com/tpaschalis/scala-bf2c/blob/master/src/main/scala/BF2C.scala) file. It shamelessly copies from [here](https://gist.github.com/maxcountryman/1699708) and [here](https://starius.ru/2015/05/16/brainfuck-to-c-in-lua/).
 
 It was written as a IntelliJ Idea + SBT project.
 
