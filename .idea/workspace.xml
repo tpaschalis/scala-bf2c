@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="65d55404-5d4b-44df-aee2-3e7902ac7cb4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Scala Worksheet" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1cwpenkb6fLxRLafDzRcdHfXkx5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.41954023" />
+  </component>
+  <component name="RunManager">
+    <configuration name="BF2C" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="BF2C" />
+      <module name="scala-bf2c" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BF2C" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="65d55404-5d4b-44df-aee2-3e7902ac7cb4" name="Default Changelist" comment="" />
+      <created>1591449607135</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591449607135</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="208" y="23" key="#Project_Structure" timestamp="1591450335138">
+      <screen x="0" y="23" width="1440" height="802" />
+    </state>
+    <state x="208" y="23" key="#Project_Structure/0.23.1440.802@0.23.1440.802" timestamp="1591450335138" />
+    <state x="458" y="186" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1591452590929">
+      <screen x="0" y="23" width="1440" height="802" />
+    </state>
+    <state x="458" y="186" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.23.1440.802@0.23.1440.802" timestamp="1591452590929" />
+    <state width="1398" height="160" key="GridCell.Tab.0.bottom" timestamp="1591455687163">
+      <screen x="0" y="23" width="1440" height="802" />
+    </state>
+    <state width="1398" height="160" key="GridCell.Tab.0.bottom/0.23.1440.802@0.23.1440.802" timestamp="1591455687163" />
+    <state width="1398" height="160" key="GridCell.Tab.0.center" timestamp="1591455687163">
+      <screen x="0" y="23" width="1440" height="802" />
+    </state>
+    <state width="1398" height="160" key="GridCell.Tab.0.center/0.23.1440.802@0.23.1440.802" timestamp="1591455687163" />
+    <state width="1398" height="160" key="GridCell.Tab.0.left" timestamp="1591455687162">
+      <screen x="0" y="23" width="1440" height="802" />
+    </state>
+    <state width="1398" height="160" key="GridCell.Tab.0.left/0.23.1440.802@0.23.1440.802" timestamp="1591455687162" />
+    <state width="1398" height="160" key="GridCell.Tab.0.right" timestamp="1591455687163">
+      <screen x="0" y="23" width="1440" height="802" />
+    </state>
+    <state width="1398" height="160" key="GridCell.Tab.0.right/0.23.1440.802@0.23.1440.802" timestamp="1591455687163" />
+    <state width="1398" height="256" key="GridCell.Tab.1.bottom" timestamp="1591455226749">
+      <screen x="0" y="23" width="1440" height="802" />
+    </state>
+    <state width="1398" height="256" key="GridCell.Tab.1.bottom/0.23.1440.802@0.23.1440.802" timestamp="1591455226749" />
+    <state width="1398" height="256" key="GridCell.Tab.1.center" timestamp="1591455226749">
+      <screen x="0" y="23" width="1440" height="802" />
+    </state>
+    <state width="1398" height="256" key="GridCell.Tab.1.center/0.23.1440.802@0.23.1440.802" timestamp="1591455226749" />
+    <state width="1398" height="256" key="GridCell.Tab.1.left" timestamp="1591455226748">
+      <screen x="0" y="23" width="1440" height="802" />
+    </state>
+    <state width="1398" height="256" key="GridCell.Tab.1.left/0.23.1440.802@0.23.1440.802" timestamp="1591455226748" />
+    <state width="1398" height="256" key="GridCell.Tab.1.right" timestamp="1591455226749">
+      <screen x="0" y="23" width="1440" height="802" />
+    </state>
+    <state width="1398" height="256" key="GridCell.Tab.1.right/0.23.1440.802@0.23.1440.802" timestamp="1591455226749" />
+    <state x="208" y="23" key="SettingsEditor" timestamp="1591450072668">
+      <screen x="0" y="23" width="1440" height="802" />
+    </state>
+    <state x="208" y="23" key="SettingsEditor/0.23.1440.802@0.23.1440.802" timestamp="1591450072668" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="bf" language="Scala" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
